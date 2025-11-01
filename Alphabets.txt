@@ -1,6 +1,10 @@
 A
 B
+<<<<<<< HEAD
 Y
+=======
+X
+>>>>>>> a1063c020f5bc246429d9a1cbdf1e6d2c8aea891
 D
 E
 F
